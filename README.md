@@ -16,14 +16,10 @@ In this project, I aim to analyze the relationship between music metrics such as
 - **Spending Data**: Spending data obtained from bank and credit card statements (date, amount).
 
 **Data Source and Collection Process**:  
-Spotify data was downloaded from Spotify's "Settings > Privacy > Download your data" section. Spending data was obtained from bank and credit card statements in Excel format.
+The data sources for this project include my Spotify listening history and personal bank and credit card expenditure records. The Spotify data will be obtained directly from my account, and the expenditure data will be collected in Excel format from bank statements and credit card records. Throughout the data collection process, personal privacy and data security will be prioritized. Both datasets will be appropriately cleaned, transformed, and prepared for analysis in alignment with the project's scope.
 
 **Data Analysis**:  
-The following analysis techniques will be used in the project:
-
-- **Correlation Analysis**: To understand the relationships between metrics such as music energy, valence, and spending amounts.
-- **Time Series Analysis**: To examine daily music and spending patterns.
-- **Categorical Analysis**: To investigate the effect of music genres on spending amounts.
+A diverse set of data analysis techniques will be employed in this project. Initially, Exploratory Data Analysis (EDA) will be conducted to explore the overall structure, distribution, and potential relationships within the data. This process will include correlation analysis to examine relationships between music metrics such as energy, valence, and spending amounts. Time series analysis will be used to investigate daily music listening and spending patterns, identifying any notable trends or seasonal behaviors. Additionally, categorical analysis will be applied to assess the impact of different music genres on spending behavior. Following EDA, visualization techniques will help intuitively present these relationships. Finally, machine learning models will be utilized to uncover potential impacts of music listening habits on spending behavior, providing deeper insights and predictive capabilities.
 
 **Expected Outcomes**:  
 I expect to gain meaningful insights into how music listening habits affect financial behaviors through these analyses. For example, the effect of specific music genres or high-energy music on spending behaviors will be particularly examined.
