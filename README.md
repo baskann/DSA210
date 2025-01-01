@@ -7,7 +7,7 @@ In this project, I aim to analyze the relationship between music metrics such as
 **Research Questions**:
 
 - Are specific music genres related to spending amounts?
-- Is there a relationship between music listening energy and spending amounts?
+- Is there a relationship between music listening and spending amounts?
 - How does emotional positivity level (valence) affect my spending behavior?
 
 **Data**:
