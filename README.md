@@ -8,18 +8,18 @@ In this project, I aim to analyze the relationship between music metrics such as
 
 - Are specific music genres related to spending amounts?
 - Is there a relationship between music listening and spending amounts?
-- How does emotional positivity level (valence) affect my spending behavior?
+- How does my spending behavior correlate with my music repetition patterns? (Do I spend more on days when I listen to familiar songs repeatedly vs. when I explore new music?)
 
 **Data**:
 
-- **Spotify Data**: "Energy" (0.0 - 1.0 range), "Valence", "Tempo" (BPM), listening times, music genres.
+- **Spotify Data**: Track name, artist name, listening times (endTime), duration (msPlayed), streaming history data, and music genres (obtained via Spotify API).
 - **Spending Data**: Spending data obtained from bank and credit card statements (date, amount).
 
 **Data Source and Collection Process**:  
 The data sources for this project include my Spotify listening history and personal bank and credit card expenditure records. The Spotify data will be obtained directly from my account, and the expenditure data will be collected in Excel format from bank statements and credit card records. Throughout the data collection process, personal privacy and data security will be prioritized. Both datasets will be appropriately cleaned, transformed, and prepared for analysis in alignment with the project's scope.
 
 **Data Analysis**:  
-A diverse set of data analysis techniques will be employed in this project. Initially, Exploratory Data Analysis (EDA) will be conducted to explore the overall structure, distribution, and potential relationships within the data. This process will include correlation analysis to examine relationships between music metrics such as energy, valence, and spending amounts. Time series analysis will be used to investigate daily music listening and spending patterns, identifying any notable trends or seasonal behaviors. Additionally, categorical analysis will be applied to assess the impact of different music genres on spending behavior. Following EDA, visualization techniques will help intuitively present these relationships. Finally, machine learning models will be utilized to uncover potential impacts of music listening habits on spending behavior, providing deeper insights and predictive capabilities.
+The project uses various techniques in data analysis. In analyzing music listening and spending behavior, I used EDA in looking at daily patterns and distributions; correlation analysis between genre spending with statistical significance testing; and categorical analysis to understand the music genres' impact on spending. The pattern recognition analysis focuses on song repetition rates and their relation to spending behavior. Those relations are presented effectively by using different visualization methods, including scatter plots, time series plots, and bar plots, together with a detailed correlation heat map. All analyses focus on quantitative approaches to finding meaningful relations between music listening and spending behavior.
 
 **Expected Outcomes**:  
 I expect to gain meaningful insights into how music listening habits affect financial behaviors through these analyses. For example, the effect of specific music genres or high-energy music on spending behaviors will be particularly examined.
