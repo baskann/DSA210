@@ -2,7 +2,7 @@
 ### Spotify & Spending Behavior Analysis
 
 **Motivation**:  
-In this project, I aim to analyze the relationship between music metrics such as "energy" and "valence" in my Spotify listening habits and my spending behaviors. Understanding whether there is a meaningful connection between music preferences and financial behaviors is both a personal curiosity and an opportunity to closely examine the impact of music preferences on daily life.
+In this project, I aim to analyze the relationships between my Spotify listening habits and spending behaviors. Understanding whether there is a meaningful connection between music listening patterns and financial behaviors will provide insights into how my daily music choices might influence spending decisions.
 
 **Research Questions**:
 
