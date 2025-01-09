@@ -1,6 +1,8 @@
 # DSA210
 ### Spotify & Spending Behavior Analysis
 
+You can access my presentation under the name of "Presentation.pptx"
+
 **Motivation**:  
 In this project, I aim to analyze the relationships between my Spotify listening habits and spending behaviors. Understanding whether there is a meaningful connection between music listening patterns and financial behaviors will provide insights into how my daily music choices might influence spending decisions.
 
